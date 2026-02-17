@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Manim render output
+media/
+
+# Manim slides cached files
+slides/files/
+slides/*.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Cursor
+.cursor/
+
+# Archives
+*.zip
+
+# Large binary assets (keep the originals in assets/)
+# Uncomment below if assets get too large:
+# assets/*.mp4
