@@ -2,6 +2,8 @@
 
 A 3Blue1Brown-style interactive presentation on model merging, built with [Manim](https://www.manim.community/) and [Manim Slides](https://manim-slides.eertmans.be/).
 
+**[View the presentation online](https://manavshahwastaken.github.io/awesome-model-merging/)**
+
 ## Setup
 
 ```bash
